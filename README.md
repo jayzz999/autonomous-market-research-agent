@@ -6,11 +6,7 @@ It's a full-stack application with a **Streamlit** web interface, powered by **G
 
 ---
 
-## 📸 Demo
 
-*(**Note:** Take a screenshot of your `streamlit run web_app.py` running, drag it into this folder, and change the line above to: `![Demo Screenshot](your-screenshot-name.png)`)*
-
----
 
 ## Core Features
 
