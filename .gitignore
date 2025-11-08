@@ -1,0 +1,12 @@
+# Environment variables - DO NOT PUSH YOUR KEYS
+.env
+
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
